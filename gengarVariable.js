@@ -1,0 +1,11 @@
+var gengarHP = 60; // number
+var gengarNum = 94; // number
+var gengarType1 = "Ghost"; // string
+var gengarType2 = "Poison"; // string
+var gengarBestMove = "Cursed Body"; // string
+var gengarLastEvo = false; // boolean
+var gengarAttack = 65 //number
+var gengarDefense = 60 // number
+var gengarSpeed = 110 // number 
+var gengarHeight = 59 // number
+var gengarWeight = 90 // number
